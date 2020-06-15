@@ -1,0 +1,21 @@
+D:\Для учебы\КСИС\Traceroute\Traceroute\bin\Debug\Traceroute.exe.config
+D:\Для учебы\КСИС\Traceroute\Traceroute\bin\Debug\Traceroute.exe
+D:\Для учебы\КСИС\Traceroute\Traceroute\bin\Debug\Traceroute.pdb
+D:\Для учебы\КСИС\Traceroute\Traceroute\obj\Debug\Traceroute.csprojAssemblyReference.cache
+D:\Для учебы\КСИС\Traceroute\Traceroute\obj\Debug\Traceroute.csproj.CoreCompileInputs.cache
+D:\Для учебы\КСИС\Traceroute\Traceroute\obj\Debug\Traceroute.exe
+D:\Для учебы\КСИС\Traceroute\Traceroute\obj\Debug\Traceroute.pdb
+D:\литература, задания\2 курс\4 sem\КСиС\KSaN-master\Traceroute\Traceroute\bin\Debug\Traceroute.exe.config
+D:\литература, задания\2 курс\4 sem\КСиС\KSaN-master\Traceroute\Traceroute\bin\Debug\Traceroute.exe
+D:\литература, задания\2 курс\4 sem\КСиС\KSaN-master\Traceroute\Traceroute\bin\Debug\Traceroute.pdb
+D:\литература, задания\2 курс\4 sem\КСиС\KSaN-master\Traceroute\Traceroute\obj\Debug\Traceroute.csprojAssemblyReference.cache
+D:\литература, задания\2 курс\4 sem\КСиС\KSaN-master\Traceroute\Traceroute\obj\Debug\Traceroute.csproj.CoreCompileInputs.cache
+D:\литература, задания\2 курс\4 sem\КСиС\KSaN-master\Traceroute\Traceroute\obj\Debug\Traceroute.exe
+D:\литература, задания\2 курс\4 sem\КСиС\KSaN-master\Traceroute\Traceroute\obj\Debug\Traceroute.pdb
+C:\Users\Владелец\source\repos\Traceroute\Traceroute\bin\Debug\Traceroute.exe.config
+C:\Users\Владелец\source\repos\Traceroute\Traceroute\bin\Debug\Traceroute.exe
+C:\Users\Владелец\source\repos\Traceroute\Traceroute\bin\Debug\Traceroute.pdb
+C:\Users\Владелец\source\repos\Traceroute\Traceroute\obj\Debug\Traceroute.csprojAssemblyReference.cache
+C:\Users\Владелец\source\repos\Traceroute\Traceroute\obj\Debug\Traceroute.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\source\repos\Traceroute\Traceroute\obj\Debug\Traceroute.exe
+C:\Users\Владелец\source\repos\Traceroute\Traceroute\obj\Debug\Traceroute.pdb
